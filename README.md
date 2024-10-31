@@ -1,4 +1,4 @@
-a## Simulador de Piano 🎹
+## Simulador de Piano 🎹
 
 
 [Sobre](#sobre) • [Demostração](#demostração) • [Tecnologias Utilizadas](#tecnologias-utilizadas) • [Funcionalidades](#funcionalidades) • [Design e Interface](#-design-e-interface) • [Como Usar](#como-usar) • [Personalização](#personalizacao) • [Estrutura de Pastas](#-estrutura-de-pastas) • [Licença](#licenca) •[Referências](#referências) • [Contato](#contato)
@@ -28,8 +28,11 @@ A interface foi desenhada para imitar as teclas de um piano físico, com teclas 
 
 ## 📑 Como Usar
 
-Acesse e divirta-se [link da página]()
+1 - Clone o repositório:
 
+```
+git clone https://github.com/seu-usuario/simulador-de-piano.git
+```
 2. Abra o arquivo `index.html` no seu navegador.
 3. Clique nas teclas do piano ou utilize as teclas do seu teclado para tocar as notas.
 
